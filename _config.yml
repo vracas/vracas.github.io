@@ -1,9 +1,9 @@
 # Site settings
-title: Γιώργος Βράκας
-email: your-email@domain.com
+title: Giorgos Vracas
+#email: your-email@domain.com
 description: "Giorgos Vracas - web designer & web developer."
 baseurl: ""
-url: "http://www.vracas.com"
+url: "http://vracas.com"
 
 # Build settings
 markdown: kramdown
